@@ -1,0 +1,8 @@
+your-website/
+├── index.html
+└── photos/
+    └── countries/
+        ├── france.jpg
+        ├── japan.jpg
+        ├── bali.jpg
+        └── ...
